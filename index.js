@@ -125,7 +125,6 @@ function controlSerpent(j){
 }
 
 document.addEventListener("keyup", controlSerpent)
-
 startBtn.addEventListener("click",playMatch)
 resetBtn.addEventListener("click", playMatch)
 
